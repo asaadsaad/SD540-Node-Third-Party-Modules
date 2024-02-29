@@ -1,5 +1,5 @@
 ### SD540-Node-Third-Party-Modules
-In a new TS project (using `ts-node`):
+In a new TS project (using `nodemon`, `ts-node`, and `@types/node` development dependencies):
 * Create a folder `/input` and place 10 high-resolution photos from [Pexels](https://www.pexels.com/).
 * Create an empty folder `/output`.
 * Read Node documentation to learn about [working with folders in Node](https://nodejs.org/en/learn/manipulating-files/working-with-folders-in-nodejs) using the `fs` core module.
